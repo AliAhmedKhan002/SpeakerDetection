@@ -4,7 +4,7 @@ Inference API for Speaker detection using speechbrain
 This repository contains a Speaker Detection model capable of identifying specific speakers in audio recordings. It utilizes deep learning techniques to extract features and make predictions based on voice samples.
 
 Installation
-1- Clone the repository:                             git clone https://github.com/AI-TEAM-R-D-Models/speaker-detection-api.git
+1- Clone the repository:                             git clone [https://github.com/AI-TEAM-R-D-Models/speaker-detection-api.git](https://github.com/AliAhmedKhan002/SpeakerDetection.git)
 2- Navigate into the cloned directory:               cd SpeakerDetection
 3- Install the required dependencies:                pip install -r req.txt
 
